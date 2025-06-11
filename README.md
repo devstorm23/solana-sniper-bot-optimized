@@ -1,4 +1,4 @@
-# 🚀 Solana Sniping(Mev) Bot - Advanced DEX Trading Automation
+# 🚀 Solana Sniper(Mev) Bot - Advanced DEX Trading Automation
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)](https://solana.com/)
